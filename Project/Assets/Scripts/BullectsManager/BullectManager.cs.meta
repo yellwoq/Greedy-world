@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 43e7d56daebe2844b8991d23cf9b8eee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dieEffect: {instanceID: 0}
+  - hitClip: {fileID: 8300000, guid: 724ec693297988b49886e6c09e339b3f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
